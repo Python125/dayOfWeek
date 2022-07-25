@@ -6,15 +6,15 @@ let quote;
 switch(dayOfWeekNumber){
     case 0: 
         nameOfDay = 'Sunday';
-        quote = 'Time to chillax!';
+        quote = 'Time to relax!';
         break;
     case 1:
         nameOfDay = 'Monday';
-        quote = 'Monday morning blues!';
+        quote = 'Monday, Monday';
         break;
     case 2:
         nameOfDay = 'Tuesday';
-        quote = 'Taco Time!';
+        quote = 'Taco Tuesday!';
         break;
     case 3:
         nameOfDay = 'Wednesday';
@@ -22,11 +22,11 @@ switch(dayOfWeekNumber){
         break;
     case 4:
         nameOfDay = 'Thursday';
-        quote = 'The weekend is almost here...';
+        quote = 'The weekend is almost here';
         break;
     case 5:
         nameOfDay = 'Friday';
-        quote = 'Weekend is here!';
+        quote = 'Weekend is here....After you go through today.';
         break;
     case 6:
         nameOfDay = 'Saturday';
