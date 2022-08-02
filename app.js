@@ -26,7 +26,7 @@ switch(dayOfWeekNumber){
         break;
     case 5:
         nameOfDay = 'Friday';
-        quote = 'Weekend is here....After you go through today.';
+        quote = 'One more day.';
         break;
     case 6:
         nameOfDay = 'Saturday';
